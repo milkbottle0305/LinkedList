@@ -6,7 +6,7 @@ template <typename T>
 struct Node {
 	T data;
 	Node<T>* nextPtr;
-};
+};;
 
 template <typename T>
 class LinkedList {
